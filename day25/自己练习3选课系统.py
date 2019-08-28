@@ -1,6 +1,5 @@
 import pickle
 class guanliyuan:
-
     def register(self,name,pwd):
         self.name = name
         self.pwd = pwd
